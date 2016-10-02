@@ -11,5 +11,6 @@ int main(int argc, char const *argv[])
 		a += b[i];
 	}
 	printf("%d\n", a);
+	printf("ss");
 	return 0;
 }
